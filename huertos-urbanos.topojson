@@ -8,69 +8,14 @@
         "coordinates": [       289.366932,       -33.441592      ]
       },
       "properties": {
-        "name": "Original Green Roasters",
-	"staff": "Daniel",
+        "name": "Huerto 1",
+	"staff": "",
+	"cultivos": "albahaca, menta, zapallos",
 	"fono": "+56956365004",
         "URL": "<a href=http://www.ogrcafe.cl> Sitio web </a>"
       }
     },
-   {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [    289.3480445,      -33.4276064     ]
-      },
-      "properties": {
-        "name": "Café Altura",
-	"staff": "Fabián, Gonzalo, Segundo; Alexander",
-	"fono": "+569",
-	"email": "@",
-	"panes": "café de especialidad"
-      }
-   },
-	  
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [     289.357334,     -33.4426392        ]
-      },
-      "properties": {
-        "name": "Café Intenzzo",
-	"fono": "+569",
-	"email": "@",
-	"café": "café de especialidad"
-      }
-},
-	 
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [     289.400381,      -33.406408     ]
-      },
-      "properties": {
-        "name": "Nook",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
-      }
-},
-
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [    289.3565429,   -33.4371291     ]
-      },
-      "properties": {
-        "name": "Bloom",
-	"fono": "+569",
-	"email": "@",
-	"café": "café de especialidad"
-      }
-},
-
+ 
 {
       "type": "Feature",
       "geometry": {

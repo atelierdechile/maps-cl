@@ -18,7 +18,8 @@
       "type": "Feature",
       "geometry": {      "type": "Point",       "coordinates": [   289.4057966,  -33.432204  ]       },
       "properties": {
-        "name": "Cortaderas",
+        "name": "Huertas Urbanas La Reina",
+	"direccion": " Av. Alcalde Fernando Castillo Velasco 9750, La Reina",           
 	"fono": "+569",
 	"email": "@",
 	"café": "café de especialidad"

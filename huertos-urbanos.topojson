@@ -3,21 +3,21 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {   "type": "Point",      "coordinates": [       289.366932,       -33.441592      ]     },
+      "geometry": {   "type": "Point",      "coordinates": [       289.2731359,      -33.4576679  ]     },
       "properties": {
         "name": "Huerto Urbano Yungay",
 	"direccion": " Santo Domingo 3676, Quinta Normal",     
 	"horario": "",
 	"cultivos": "albahaca, menta, zapallos",
-	"fono": "+56956365004",
+	"fono": "",
 	"email": "@",
-        "URL": "<a href=http://www.ogrcafe.cl> Sitio web </a>"
+        "URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
     },
  
 {
       "type": "Feature",
-      "geometry": {      "type": "Point",       "coordinates": [   289.4057966,  -33.432204  ]       },
+      "geometry": {      "type": "Point",       "coordinates": [   289.2731352,  -33.4569375  ]       },
       "properties": {
         "name": "Huertas Urbanas La Reina",
 	"direccion": " Av. Alcalde Fernando Castillo Velasco 9750, La Reina",   
@@ -25,33 +25,33 @@
 	"cultivos": "albahaca, menta, zapallos",
 	"fono": "+569",
 	"email": "@",
-	"URL": "<a href=http://www.ogrcafe.cl> Sitio web </a>"
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
 },
 
 {
       "type": "Feature",
-      "geometry": {          "type": "Point",          "coordinates": [      289.3960666,      -33.4147139     ]      },
+      "geometry": {          "type": "Point",          "coordinates": [      289.3631968,      -33.4407429     ]      },
       "properties": {
-        "name": "Milk Coffee Bar",
+        "name": "Huerto Urbano Francisco de Asis y Borjar",
 	"direccion": " direccion",   
 	"horario": "",
 	"fono": "+569",
 	"email": "@",
-	"URL": "<a href=http://www.ogrcafe.cl> Sitio web </a>"
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
 },
 	  
 {
       "type": "Feature",
-      "geometry": {     "type": "Point",      "coordinates": [     289.2410954,      -33.5080453      ]       },
+      "geometry": {     "type": "Point",      "coordinates": [     289.3845614,      -33.4995869      ]       },
       "properties": {
-        "name": "Coffee Culture Coffee Roasters",
+        "name": "Campus San Joaquin UC",
 	"direccion": " direccion",   
         "horario": "",
 	"fono": "+569",
 	"email": "@",
-	"URL": "<a href=http://www.ogrcafe.cl> Sitio web </a>"
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
 },
 	
@@ -64,7 +64,7 @@
 	"horario": "",
 	"fono": "+569",
 	"email": "@",
-	"URL": "<a href=http://www.ogrcafe.cl> Sitio web </a>"
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
 },
 	
@@ -74,9 +74,9 @@
       "properties": {
         "name": "Forastero",
 	"direccion": " direccion",   
-	"fono": "+56977999115",
+	"fono": "+",
 	"email": "@",
-	"café": "café de especialidad"
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
     }
   ]

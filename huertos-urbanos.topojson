@@ -1,14 +1,12 @@
-    {
+  {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [       289.366932,       -33.441592      ]
-      },
+      "geometry": {   "type": "Point",      "coordinates": [       289.366932,       -33.441592      ]     },
       "properties": {
-        "name": "Huerto 1",
+        "name": "Huerto Urbano Yungay",
+	"direccion": " Santo Domingo 3676, Quinta Normal",     
 	"staff": "",
 	"cultivos": "albahaca, menta, zapallos",
 	"fono": "+56956365004",
@@ -18,10 +16,7 @@
  
 {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [   289.4057966,  -33.432204  ]
-      },
+      "geometry": {      "type": "Point",       "coordinates": [   289.4057966,  -33.432204  ]       },
       "properties": {
         "name": "Cortaderas",
 	"fono": "+569",
@@ -32,10 +27,7 @@
 
 {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [      289.3960666,      -33.4147139     ]
-      },
+      "geometry": {          "type": "Point",          "coordinates": [      289.3960666,      -33.4147139     ]      },
       "properties": {
         "name": "Milk Coffee Bar",
 	"fono": "+569",
@@ -46,10 +38,7 @@
 	  
 {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [     289.2410954,      -33.5080453      ]
-      },
+      "geometry": {     "type": "Point",      "coordinates": [     289.2410954,      -33.5080453      ]       },
       "properties": {
         "name": "Coffee Culture Coffee Roasters",
 	"fono": "+569",

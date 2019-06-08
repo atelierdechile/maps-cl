@@ -57,9 +57,9 @@
 	
 {
       "type": "Feature",
-      "geometry": {   "type": "Point",      "coordinates": [       289.3768961,      -33.4405433      ]    },
+      "geometry": {   "type": "Point",      "coordinates": [       289.29644,    -33.496978    ]    },
       "properties": {
-        "name": "Nunna Coffee",
+        "name": "Parque Bicentenario de Cerrillos",
         "direccion": " direccion",   
 	"horario": "",
 	"fono": "+569",
@@ -70,9 +70,9 @@
 	
 {
       "type": "Feature",
-      "geometry": {   "type": "Point",      "coordinates": [      289.3299505,      -33.4456397     ]      },
+      "geometry": {   "type": "Point",      "coordinates": [      289.3266639,     -33.5914923  ]      },
       "properties": {
-        "name": "Forastero",
+        "name": "Asociación Gremial de Huerteros La Pintana",
 	"direccion": " direccion",   
 	"fono": "+",
 	"email": "@",

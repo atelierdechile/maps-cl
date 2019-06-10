@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {   "type": "Point",      "coordinates": [       289.2731359,      -33.4576679  ]     },
+      "properties": {
+        "name": "Huerto Urbano Yungay",
+	"direccion": " Santo Domingo 3676, Quinta Normal",     
+	"horario": "",
+	"cultivos": "albahaca, menta, zapallos",
+	"fono": "",
+	"email": "@",
+        "URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+      }
+    },
+ 
+{
+      "type": "Feature",
+      "geometry": {      "type": "Point",       "coordinates": [   289.2731352,  -33.4569375  ]       },
+      "properties": {
+        "name": "Huertas Urbanas La Reina",
+	"direccion": " Av. Alcalde Fernando Castillo Velasco 9750, La Reina",   
+        "horario": "",
+	"cultivos": "albahaca, menta, zapallos",
+	"fono": "+569",
+	"email": "@",
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+      }
+},
+
+{
+      "type": "Feature",
+      "geometry": {          "type": "Point",          "coordinates": [      289.3631968,      -33.4407429     ]      },
+      "properties": {
+        "name": "Huerto Urbano Francisco de Asis y Borjar",
+	"direccion": " direccion",   
+	"horario": "",
+	"fono": "+569",
+	"email": "@",
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+      }
+},
+	  
+{
+      "type": "Feature",
+      "geometry": {     "type": "Point",      "coordinates": [     289.3845614,      -33.4995869      ]       },
+      "properties": {
+        "name": "Campus San Joaquin UC",
+	"direccion": " direccion",   
+        "horario": "",
+	"fono": "+569",
+	"email": "@",
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+      }
+},
+	
+{
+      "type": "Feature",
+      "geometry": {   "type": "Point",      "coordinates": [       289.29644,    -33.496978    ]    },
+      "properties": {
+        "name": "Parque Bicentenario de Cerrillos",
+        "direccion": " direccion",   
+	"horario": "",
+	"fono": "+569",
+	"email": "@",
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+      }
+},
+	
+{
+      "type": "Feature",
+      "geometry": {   "type": "Point",      "coordinates": [      289.3266639,     -33.5914923  ]      },
+      "properties": {
+        "name": "Asociación Gremial de Huerteros La Pintana",
+	"direccion": " direccion",   
+	"fono": "+",
+	"email": "@",
+	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+      }
+    }
+  ]
+}

@@ -3,80 +3,85 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {   "type": "Point",      "coordinates": [       289.2731359,      -33.4576679  ]     },
+      "geometry": {   "type": "Point",      "coordinates": [       286.9302027,    -41.1134255  ]     },
       "properties": {
-        "name": "Huerto Urbano Yungay",
-	"direccion": " Santo Domingo 3676, Quinta Normal",     
-	"horario": "",
-	"cultivos": "albahaca, menta, zapallos",
-	"fono": "",
-	"email": "@",
-        "URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+        "name": "Wild Patagonia Foods",
+	"direccion": "Frutillar",     
+	"fono": "+56998277664",
+	"email": "pablo@wildpatagoniachile.com",
+        "URL": "<a href=http://www.wildpatagoniachile.com> Wild Patagonia </a>"
       }
     },
  
 {
       "type": "Feature",
-      "geometry": {      "type": "Point",       "coordinates": [   289.2731352,  -33.4569375  ]       },
+      "geometry": {          "type": "Point",          "coordinates": [      289.0899733,    -33.4718999   ]      },
       "properties": {
-        "name": "Huertas Urbanas La Reina",
-	"direccion": " Av. Alcalde Fernando Castillo Velasco 9750, La Reina",   
-        "horario": "",
-	"cultivos": "albahaca, menta, zapallos",
-	"fono": "+569",
-	"email": "@",
+        "name": "Manada Carnes Naturales",
+	"direccion": "Santiago",   
+	"fono": "+56976181833",
+	"email": "tomas@carnesmanada.com",
+	"URL": "<a href=http://www.carnesmanada.com> Carnes Manada </a>"
+      }
+},
+	  
+{
+      "type": "Feature",
+      "geometry": {     "type": "Point",      "coordinates": [     286.8251359,   -40.9084141   ]       },
+      "properties": {
+        "name": "Lácteos Tronador",
+	"direccion": "Purranque",   
+	"fono": "--",
+	"email": "mdominguez@drakespm.com",
 	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
 },
-
+	
 {
       "type": "Feature",
-      "geometry": {          "type": "Point",          "coordinates": [      289.3631968,      -33.4407429     ]      },
+      "geometry": {   "type": "Point",      "coordinates": [      289.0899736,    -33.4718999    ]    },
       "properties": {
-        "name": "Huerto Urbano Francisco de Asis y Borjar",
-	"direccion": " direccion",   
-	"horario": "",
-	"fono": "+569",
-	"email": "@",
+        "name": "Epullen",
+        "direccion": " Santiago",   
+	"fono": "+56222845603",
+	"email": "terrium@terrium.cl",
 	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
       }
 },
 	  
 {
       "type": "Feature",
-      "geometry": {     "type": "Point",      "coordinates": [     289.3845614,      -33.4995869      ]       },
+      "geometry": {   "type": "Point",      "coordinates": [      289.0899739,    -33.4718999    ]    },
       "properties": {
-        "name": "Campus San Joaquin UC",
-	"direccion": " direccion",   
-        "horario": "",
-	"fono": "+569",
-	"email": "@",
-	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+        "name": "Aguas Late",
+        "direccion": " Santiago",   
+	"fono": "+56226391104",
+	"email": "info@late.cl",
+	"URL": "<a href=http://www.late.cl> Agua Late </a>"
+      }
+},
+
+{
+      "type": "Feature",
+      "geometry": {   "type": "Point",      "coordinates": [      289.0899741,    -33.4718999    ]    },
+      "properties": {
+        "name": "Freemet",
+        "direccion": " Santiago",   
+	"fono": "+56995095994",
+	"email": "andrea@freemet.cl",
+	"URL": "<a href=http://www.freemet.cl> Freemet </a>"
       }
 },
 	
 {
       "type": "Feature",
-      "geometry": {   "type": "Point",      "coordinates": [       289.29644,    -33.496978    ]    },
+      "geometry": {   "type": "Point",      "coordinates": [      288.3006822,   -35.5200487 ]      },
       "properties": {
-        "name": "Parque Bicentenario de Cerrillos",
-        "direccion": " direccion",   
-	"horario": "",
-	"fono": "+569",
-	"email": "@",
-	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
-      }
-},
-	
-{
-      "type": "Feature",
-      "geometry": {   "type": "Point",      "coordinates": [      289.3266639,     -33.5914923  ]      },
-      "properties": {
-        "name": "Asociación Gremial de Huerteros La Pintana",
-	"direccion": " direccion",   
-	"fono": "+",
-	"email": "@",
-	"URL": "<a href=http://www.sitio.cl> Sitio web </a>"
+        "name": "Uop!",
+	"direccion": " Maule",   
+	"fono": "+56984880354",
+	"email": "samuel@uop.cl",
+	"URL": "<a href=http://www.uop.cl> Uop! </a>"
       }
     }
   ]

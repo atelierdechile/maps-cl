@@ -5,7 +5,18 @@
     "coordinates": [-70.7565459, -33.440753]
   },
   "properties": {
-    "name": "Casa Aldea, Sánguches",
+    "name": "Casa Aldea",
+    "description": "Hamburguesas, sámguches"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-70.5581585, -33.3921212,]
+  },
+  "properties": {
+    "name": "Franklin Klunssen",
     "description": "Hamburguesas, sámguches"
   }
 }

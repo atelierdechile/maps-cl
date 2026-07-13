@@ -13,7 +13,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [-70.5581585, -33.3921212,]
+    "coordinates": [-70.5581585, -33.3921212]
   },
   "properties": {
     "name": "Franklin Klunssen",

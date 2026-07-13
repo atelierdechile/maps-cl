@@ -8,15 +8,4 @@
     "name": "Casa Aldea",
     "description": "Hamburguesas, sánguches"
   }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-70.558158, -33.392121]
-  },
-  "properties": {
-    "name": "Franklin Klunssen",
-    "description": "Hamburguesas, sánguches"
-  }
 }

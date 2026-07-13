@@ -9,7 +9,7 @@
       },
       "properties": {
         "name": "Casa Aldea",
-        "description": "Hamburguesas, sánguches"
+        "description": "Sargento aldea 970 - Pudahuel, Hamburguesas, sánguches"
       }
     },
     {
@@ -20,8 +20,22 @@
       },
       "properties": {
         "name": "Franklin Klunssen",
-        "description": "Hamburguesas, sánguches"
+        "description": "Fernando de Arguello 7430 - Vitacura, Hamburguesas, sánguches"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.671492, -33.4086552 ]
+      },
+      "properties": {
+        "name": "El Lobito ",
+        "description": "Nueva de Matte 2585 - Independencia, Hamburguesas, sánguches"
       }
     }
+
+
+
   ]
 }
